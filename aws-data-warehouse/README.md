@@ -1,7 +1,7 @@
-# AWS Data Warehousing Project: Schema for Song Play Analysis
+# AWS Data Warehousing Project: ETL from S3 Buckets to Redshift Cluster
 
 ## Introduction
-Sparkify's analytics team is interested in analyzing what songs users are listening to. The relational database tables will allow the analytics team to optimize queries for song play analysis. This ETL pipeline extracts JSON logs of user activity and JSON metadata of the songs library and loads into the star schema database.
+Sparkify's analytics team is interested in analyzing what songs users are listening to. The Redshift database tables will allow the analytics team to optimize queries for song play analysis. This ETL pipeline extracts JSON logs of user activity and JSON metadata of the songs library from S3 buckets and loads into the star schema database in Redshift.
 
 ## Schema
 Star schema was chosen for its simplicity. Benefits of star schema design include simpler queries for analysis, faster aggregation and query performance. The schema includes the following tables:
