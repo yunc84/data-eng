@@ -1,5 +1,6 @@
 # Projects for Udacity's Data Engineering course
 
-1. Data modeling with Postgres
-2. Data modeling with Apache Cassandra
-3. Data warehousing with Amazon Redshift
+1. Data modeling in Postgres
+2. Data modeling in Apache Cassandra
+3. Data warehousing in Amazon Redshift
+4. Data lakes in Apache Spark
