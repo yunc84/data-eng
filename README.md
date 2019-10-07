@@ -3,4 +3,4 @@
 1. Data modeling in Postgres
 2. Data modeling in Apache Cassandra
 3. Data warehousing in Amazon Redshift
-4. Data lakes in Apache Spark
+4. Data lake with Apache Spark
